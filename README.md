@@ -1,0 +1,1 @@
+# JoinFromSameTable.SQL
